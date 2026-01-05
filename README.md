@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[View Live Demo](https://thisislefa.github.io/Quartz/)
+[View Live Demo](https://lefajmofokeng.github.io/Quartz/)
 
 ## Technical Architecture
 
@@ -421,4 +421,5 @@ Quartz is released under the MIT License, allowing free use, modification, and d
 ---
 
 *Quartz provides a production-ready about section component that combines compelling visuals with interactive data presentation, making it ideal for modern business websites and digital portfolios.*
+
 
