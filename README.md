@@ -3,6 +3,7 @@
 ## Overview
 
 **Quartz** is a sophisticated about section component featuring animated statistics, responsive image grids, and clean typography. Designed for corporate websites, agency portfolios, and startup landing pages, Quartz combines visual storytelling with data-driven credibility through interactive number animations.
+<img width="1920" height="1012" alt="quartz" src="https://github.com/user-attachments/assets/8e7aef43-f59c-4d99-a6e4-126ecf67ae75" />
 
 ## Live Demo
 
@@ -421,5 +422,6 @@ Quartz is released under the MIT License, allowing free use, modification, and d
 ---
 
 *Quartz provides a production-ready about section component that combines compelling visuals with interactive data presentation, making it ideal for modern business websites and digital portfolios.*
+
 
 
